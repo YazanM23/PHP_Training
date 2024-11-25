@@ -1,4 +1,3 @@
-
 # Sport Club PHP Project
 
 This **Sport Club PHP Project** is a web application built using plain PHP to manage the operations of a sports club. It includes features for managing players, trainers, and matches, along with user authentication.
